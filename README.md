@@ -182,6 +182,18 @@ Command-line power tools that operate directly inside your terminal, managing gi
 
 ---
 
+## 🎛 Running Agents in Parallel
+
+Control planes that run several coding agents at once and show which one needs a human.
+
+- [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) — Platform for scheduling and isolating many coding agents across your own machines.
+- [ccmanager](https://github.com/kbwo/ccmanager) — Session manager for Claude Code, Gemini CLI, Codex CLI, and Cursor Agent.
+- [Claude Squad](https://github.com/smtg-ai/claude-squad) — Terminal manager for multiple Claude Code, Codex, OpenCode, and Amp sessions.
+- [cmux](https://github.com/manaflow-ai/cmux) — Ghostty-based macOS terminal with vertical tabs and notifications for coding agents.
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) — Browser grid of live Claude Code and Codex sessions, one real PTY and git worktree per cell, backed by tmux.
+- [Orca](https://github.com/stablyai/orca) — Development environment for running a fleet of parallel coding agents.
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) — Kanban board for planning, running, and reviewing tasks across many agent CLIs.
+
 ## 🔌 Open-Source Copilots & Extensions
 
 Pluggable extensions compatible with standard editors (VS Code, Neovim, JetBrains) allowing custom local and remote model backends.
